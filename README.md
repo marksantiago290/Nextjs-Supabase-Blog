@@ -21,11 +21,11 @@ The [Blogging application](https://ub.cafe) is a multi-user, full-stack Next.js 
 
 ## 💻 Frontend
 
-https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/c0488b1b-ff48-4871-849d-806f09c39322
+https://github.com/marksantiago290/Nextjs-Supabase-Blog/assets/25026241/c0488b1b-ff48-4871-849d-806f09c39322
 
 ## 🧰 Backend
 
-https://github.com/BTC415/Nextjs-Supabase-Blog/assets/25026241/29c35c5f-ad67-4f5b-9943-0fd0d94448b8
+https://github.com/marksantiago290/Nextjs-Supabase-Blog/assets/25026241/29c35c5f-ad67-4f5b-9943-0fd0d94448b8
 
 ## 📚 Tech Stacks
 
@@ -79,7 +79,7 @@ Want to get up and running quickly? Follow these steps:
 - [Clone the repository](https://help.github.com/articles/cloning-a-repository/) it to your local device.
 
   ```sh
-  git clone https://github.com/BTC415/Nextjs-Supabase-Blog.git
+  git clone https://github.com/marksantiago290/Nextjs-Supabase-Blog.git
   ```
 
 - Set up your [Supabase Database](https://supabase.com/docs/guides/database) and Auth wit with [Social Logins](https://supabase.com/docs/guides/auth/social-login)
